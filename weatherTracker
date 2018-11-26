@@ -1,7 +1,0 @@
-class Weather:
-    def __init__(self, cityName):
-        self.cityName = cityName
-
-if __name__== "__main__":
-    print("Main Program")
-    weatherRequestParams = {'APPID': '8a25393ce069125236a34d22ef0a2615'}
